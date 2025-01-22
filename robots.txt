@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://marketingformula.net/sitemap.xml
